@@ -7,6 +7,8 @@ Netflix
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
 
+
+
 DisneylandReviews
 
 The dataset includes 42,000 reviews of 3 Disneyland branches - Paris, California and Hong Kong, posted by visitors on Trip Advisor.
@@ -19,6 +21,9 @@ Year_Month: when the reviewer visited the theme park
 Reviewer_Location: country of origin of visitor
 Review_Text: comments made by visitor
 Disneyland_Branch: location of Disneyland Park
+
+
+
 
 
 IMDB Movies
